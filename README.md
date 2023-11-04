@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🎓 I am still a student at grade 2 at faculty of computers and information,Menoufia University.
+- 🎓 I am still a student at grade 2 at faculty of computers and information, Menoufia University.
 - 🪖 Problem Solver.
 
 ### Connect with Me :
