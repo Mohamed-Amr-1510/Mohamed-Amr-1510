@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Cyber Security Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🎓 I am still a student at grade 3 at faculty of computers and information, Menoufia University.
+- 🎓 I am still a student at grade 4 at faculty of computers and information, Menoufia University.
 - 🪖 Problem Solver.
 
 ### Connect with Me :
